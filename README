@@ -1,0 +1,30 @@
+
+Survey Form
+This is a simple survey form webpage built using HTML and CSS.
+
+Features
+Collects user information such as name, email, age, current status, gender, skills, and comments/suggestions.
+All fields marked with a red asterisk (*) are required.
+Provides dropdown menus, radio buttons, checkboxes, and a textarea for user input.
+Includes a submit button to submit the form.
+Usage
+Clone the repository or download the HTML and CSS files.
+Open the index.html file in a web browser.
+Fill in the form fields with the required information.
+Optionally, provide any comments or suggestions in the textarea field.
+Click the "Submit" button to submit the form.
+Customization
+You can customize the form and its appearance by modifying the HTML and CSS code. Here are a few suggestions:
+
+Modify the form labels, placeholders, and options to suit your specific survey requirements.
+Adjust the styling by editing the style.css file. You can change colors, fonts, dimensions, and alignments to match your desired design.
+Dependencies
+This project has no external dependencies. It only requires a web browser to run the HTML file.
+
+Credits
+This survey form was created by [Your Name] and inspired by online form templates.
+
+License
+Feel free to use and modify the code as needed.
+
+For any questions or support, please contact [Your Email Address].
